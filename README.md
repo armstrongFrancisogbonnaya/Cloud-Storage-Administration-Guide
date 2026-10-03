@@ -58,8 +58,6 @@ The guiding rule is least privilege: give people the minimum access they need to
 it to groups rather than to individuals. When a person changes teams, you move them between groups 
 and nothing else needs touching.
 
-Page 1 of 3
-Armstrong Francis Ogbonnaya  |  armstrongogbonnaya.official@gmail.com
 
 Role
 
@@ -140,9 +138,6 @@ B. The file was overwritten or edited by mistake
 
 2. Pick the last good version, check its date and time, and select Restore this version.
 
-Page 2 of 3
-
-Armstrong Francis Ogbonnaya  |  armstrongogbonnaya.official@gmail.com
 
 C. The bin was emptied, or the user’s account was deleted
 
@@ -180,7 +175,3 @@ documentation before applying them.
 
 Document owner: Armstrong Francis Ogbonnaya, 
 armstrongogbonnaya.official@gmail.com.
-
-
-Page 3 of 3
-Armstrong Francis Ogbonnaya  |  armstrongogbonnaya.official@gmail.com
